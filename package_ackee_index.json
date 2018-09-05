@@ -14,16 +14,16 @@
         {
           "name": "Ackee",
           "architecture": "samd",
-          "version": "1.0.0",
+          "version": "1.0.4",
           "category": "Contributed",
-          "url": "https://github.com/qxpgit/ackee/archive/v1.0.0.zip",
-          "archiveFileName": "v1.0.0.zip",
-          "checksum": "SHA-256:3adf8434b288ee881d171ef64fdda63f9bbcafb57d94210df32905eaf783ad03",
-          "size": "1537977" ,
+          "url": "https://github.com/qxpgit/ackee/archive/v1.0.4.zip",
+          "archiveFileName": "v1.0.4.zip",
+          "checksum": "SHA-256:a5707f792aa82f9b8de21a02c3f6a0bb59ed7dfea1702c3f8b4d7f3e17cdf1e6",
+          "size": "2269184" ,
           "boards": [
    
             {
-              "name": "Ackee samr21"
+              "name": "Ackee zid"
             },
             {
               "name": "Ackee samr30"
@@ -31,8 +31,17 @@
             {
               "name": "Monterisi"
             } , 
-	    {
+	        {
               "name": "AckeeG"
+            } , 
+	        {
+              "name": "Bertana Master"
+            } , 
+	        {
+              "name": "Bertana Slave"
+            } , 
+	        {
+              "name": "icegap slave"
             }           
           
           ],

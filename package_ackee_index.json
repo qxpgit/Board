@@ -20,7 +20,7 @@
           "archiveFileName": "v1.04.zip",
           "checksum": "SHA-256:db01263e1c41964b9262101bfe5bff8af3d349ed4aaebe2349717fa1b1e25a18",
           "size": "2261703" ,
-          "boards": [
+          "boards": [ 
    
             {
               "name": "Ackee zid"
